@@ -1,0 +1,8 @@
+# Ignoriere alle .log-Dateien
+*.log
+
+# Ignoriere das Verzeichnis temp/
+.idea/
+
+# Ignoriere die Datei secrets.txt
+secrets.txt
