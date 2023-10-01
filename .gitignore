@@ -2,7 +2,7 @@
 *.log
 
 # Ignoriere das Verzeichnis temp/
-.idea/
+.idea*
 
 # Ignoriere die Datei secrets.txt
 secrets.txt
